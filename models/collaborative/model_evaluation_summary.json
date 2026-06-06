@@ -1,0 +1,30 @@
+{
+    "Base_SVD": {
+        "Train_RMSE": 0.6485251342568091,
+        "Train_MAE": 0.5037259226970676,
+        "Val_RMSE": 0.901300459737189,
+        "Val_MAE": 0.6904715380963,
+        "Val_Precision@10": 0.4907600596125187,
+        "Val_Recall@10": 0.7254946976291698,
+        "Val_HitRate@10": 0.9953416149068323,
+        "Test_RMSE": null,
+        "Test_MAE": null,
+        "Test_Precision@10": null,
+        "Test_Recall@10": null,
+        "Test_HitRate@10": null
+    },
+    "Tuned_SVD": {
+        "Train_RMSE": 0.8930829184357124,
+        "Train_MAE": 0.6882159335895373,
+        "Val_RMSE": 0.8789956187833148,
+        "Val_MAE": 0.669776929288799,
+        "Val_Precision@10": 0.49791356184798813,
+        "Val_Recall@10": 0.7315150717510953,
+        "Val_HitRate@10": 0.9953416149068323,
+        "Test_RMSE": 0.8950406118278985,
+        "Test_MAE": 0.6831385713078203,
+        "Test_Precision@10": 0.4971684053651267,
+        "Test_Recall@10": 0.7442281468769234,
+        "Test_HitRate@10": 0.9969325153374233
+    }
+}
