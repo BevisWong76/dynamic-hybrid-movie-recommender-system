@@ -1,4 +1,4 @@
 .venv
-data/*.csv
-data/*.xlsx
-!data/*.zip
+Movie_data/*.csv
+Movie_data/*.xlsx
+!Movie_data/*.zip
