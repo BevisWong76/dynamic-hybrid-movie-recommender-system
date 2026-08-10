@@ -1,4 +1,3 @@
 .venv
 Movie_data/*.csv
-Movie_data/*.xlsx
-!Movie_data/*.zip
+!Movie_data/*.7z
