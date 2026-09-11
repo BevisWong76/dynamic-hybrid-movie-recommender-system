@@ -101,10 +101,10 @@ The execution pipeline automatically generates and manages the following runtime
 ```text
 ├── models/                     # Stores trained model files
 │   ├── content_based/          # Matrices and vectorizer
-│   └── collaborative/          # SVD model and evaluation summery
+│   └── collaborative/          # SVD model and evaluation summary
 └── plots/                      # Generated visualizations
     ├── Rating_Distribution/    # Rating Distribution per user and year
-    ├── Demographics/           # Analysis of the demogephic scroes
+    ├── Demographics/           # Analysis of the ddemographic scores
     ├── Content_Based/          # Analysis of the content-based model
     └── Collaborative/          # Analysis of the SVD model performance and model insight
 ```
@@ -173,7 +173,7 @@ uv venv
 source .venv/bin/activate
 ```
 
- 4. Install dependencies:
+4. Install dependencies:
 ```bash
 uv pip install --upgrade pip
 uv pip install -r requirements.txt
